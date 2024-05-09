@@ -40,6 +40,7 @@ Testing the C Program for the desired output.
 
 
 ## OUTPUT
+![Screenshot from 2024-05-07 14-40-39](https://github.com/Nandhika05/Linux-IPC-Pipes/assets/154419402/e498fbf5-63f0-481e-8839-69c469d1e92c)
 
 ![Screenshot from 2024-05-07 14-41-08](https://github.com/Nandhika05/Linux-IPC-Pipes/assets/154419402/cc6a2eab-fc67-40d8-acd8-1a48b14c2ded)
 
